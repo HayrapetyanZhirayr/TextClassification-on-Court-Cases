@@ -28,6 +28,7 @@ alternative least_squares method.
 
 
 -- taxonomies (hierarchical structures)
+
 taxonomy_utils.py :: functions for extracting a taxonomy structury from csv table and other useful utils
 taxonomy_eda.ipynb :: exploratory data analysis for russian court categories structure
 dfs_sort_utils.py :: script for checking correctness of order of list of tree nodes (dfs or not)
@@ -37,6 +38,7 @@ ast_local.py :: a vectorizer based on Annotated Suffix Trees
 tf_keras_utils.py :: a sequential vectorizer. This one uses tensorflow keras.
 
 -- utils
+
 load_data.py :: utils for loading data
 data_utils.py :: utils for preprocessing data
 torch_utils.py :: torch wrappers for training NN
