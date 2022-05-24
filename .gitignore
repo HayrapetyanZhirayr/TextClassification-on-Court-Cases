@@ -1,0 +1,12 @@
+__pycache__/
+.idea/
+.ipynb_checkpoints/
+temp_data/
+temp_tensors/
+raw_data/
+check_cuda.py
+check_keras.py
+check_sepnn.py
+data/
+kad.arbitr-parser/
+Отчеты/
